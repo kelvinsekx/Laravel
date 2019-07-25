@@ -1,0 +1,32 @@
+.tic-box{
+  background-color: #000;
+}
+
+.danger{
+  background-color: rgba(170, 1, 1, 0.4);
+  color: #fff;
+  font-weight: 600;
+  border-radius: 10px !important;
+}
+
+.successful{
+  background-color: forestgreen;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 10px !important;
+}
+
+.whoos{
+  -moz-box-shadow: 5px 5px 5px 5px #777777;
+  -webkit-box-shadow: 5px 5px 5px 5px #777777;
+  box-shadow: 5px 5px 5px 5px #777777  !important;
+  background-color: #fff !important;
+  padding:0.5em;
+}
+button .foot{
+  color:red;
+}
+a{
+  text-decoration: none;
+  list-style: none;
+}
